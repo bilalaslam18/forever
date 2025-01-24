@@ -2,6 +2,10 @@
   "name": "forever-frontend",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "aslammbilal61@gmail.com",
+    "name": "Muhammad Bilal"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
